@@ -4,10 +4,19 @@
         <title>Docs by gnuion Blog</title>
         <link>https://gnuion.github.io/docion/blog</link>
         <description>Docs by gnuion Blog</description>
-        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Oct 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[React App Scaffold]]></title>
+            <link>https://gnuion.github.io/docion/blog/react-app-scaffold</link>
+            <guid>react-app-scaffold</guid>
+            <pubDate>Mon, 10 Oct 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[React is a library it doesn't care about project structure. We have to manage it instead.]]></description>
+            <content:encoded><![CDATA[<p>React is a library it doesn't care about project structure. We have to manage it instead.</p>]]></content:encoded>
+            <category>web</category>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://gnuion.github.io/docion/blog/welcome</link>

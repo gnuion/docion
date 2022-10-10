@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gnuion.github.io/docion/blog</id>
     <title>Docs by gnuion Blog</title>
-    <updated>2021-08-26T00:00:00.000Z</updated>
+    <updated>2022-10-10T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://gnuion.github.io/docion/blog"/>
     <subtitle>Docs by gnuion Blog</subtitle>
     <icon>https://gnuion.github.io/docion/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[React App Scaffold]]></title>
+        <id>react-app-scaffold</id>
+        <link href="https://gnuion.github.io/docion/blog/react-app-scaffold"/>
+        <updated>2022-10-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[React is a library it doesn't care about project structure. We have to manage it instead.]]></summary>
+        <content type="html"><![CDATA[<p>React is a library it doesn't care about project structure. We have to manage it instead.</p>]]></content>
+        <author>
+            <name>Jon Zuka</name>
+            <uri>https://github.com/gnuion</uri>
+        </author>
+        <category label="web" term="web"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>welcome</id>
