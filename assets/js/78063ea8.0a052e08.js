@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocion=self.webpackChunkdocion||[]).push([[9676],{8796:o=>{o.exports=JSON.parse('{"permalink":"/docion/blog/tags/web-3","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
