@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocion=self.webpackChunkdocion||[]).push([[9687],{1235:o=>{o.exports=JSON.parse('{"label":"redux toolkit","permalink":"/docion/blog/tags/redux-toolkit","allTagsPath":"/docion/blog/tags","count":1}')}}]);
