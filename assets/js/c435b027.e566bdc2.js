@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocion=self.webpackChunkdocion||[]).push([[9656],{2234:e=>{e.exports=JSON.parse('{"label":"kubernetes","permalink":"/docion/blog/tags/kubernetes","allTagsPath":"/docion/blog/tags","count":2}')}}]);
