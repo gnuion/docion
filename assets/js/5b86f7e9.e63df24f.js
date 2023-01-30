@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocion=self.webpackChunkdocion||[]).push([[2037],{5449:o=>{o.exports=JSON.parse('{"permalink":"/docion/blog","page":1,"postsPerPage":10,"totalPages":2,"totalCount":19,"nextPage":"/docion/blog/page/2","blogDescription":"Blog","blogTitle":"Blog"}')}}]);

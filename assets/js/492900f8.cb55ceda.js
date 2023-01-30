@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocion=self.webpackChunkdocion||[]).push([[7332],{1942:o=>{o.exports=JSON.parse('{"label":"devops","permalink":"/docion/blog/tags/devops","allTagsPath":"/docion/blog/tags","count":3}')}}]);
